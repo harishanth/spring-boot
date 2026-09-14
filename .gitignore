@@ -1,0 +1,21 @@
+# Gradle & Maven build files
+.gradle/
+build/
+target/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE & Editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
